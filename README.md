@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2 align="center">Welcome, You've landed on the GitHub page of James William</h2>
 <h3 align="center">A passionate Software developer from India</h3>
