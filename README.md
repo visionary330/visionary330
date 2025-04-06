@@ -16,5 +16,5 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
 
 ## Statistics
 
-<img width="640" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={visionary330}&theme={2077}" alt=""/>
+<img width="640" src="https://streak-stats.demolab.com/?user=diamond120&theme=react" alt=""/>
 
