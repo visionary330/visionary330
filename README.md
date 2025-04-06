@@ -1,5 +1,6 @@
-##👋 About Me <br/>
+## About Me <br/>
 Hi there! <br/>
+
 I'm a passionate Full Stack Developer who loves building end-to-end web applications and solving real-world problems with code. From crafting responsive frontends to building robust backends and deploying scalable systems, I enjoy working across the stack.
 
 💻 Languages & Tools: JavaScript, TypeScript, React, Node.js, Express, Next.js, MongoDB, PostgreSQL, Docker, Git, and more.
