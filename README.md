@@ -1,5 +1,5 @@
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={visionary330}&theme={monokai}
+
 ## Skills
 <table>  
   <tr> 
@@ -156,4 +156,4 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 </div>
 
 ## Statistics
-<img width="640" src="https://streak-stats.demolab.com/?user=diamond120&theme=react" alt=""/>
+<img width="640" src="[https://streak-stats.demolab.com/?user=diamond120&theme=react](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={visionary330}&theme={monokai})" alt=""/>
