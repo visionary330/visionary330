@@ -16,5 +16,14 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
 
 ## Statistics
 
-<img width="640" src="https://streak-stats.demolab.com/?user=diamond120&theme=react" alt=""/>
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piedro404&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piedro404&layout=compact&langs_count=7&theme=react"/>
+  </div>
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=piedro404&count_private=false&theme=react"/>
+    <a href="https://github.com/piedro404/bee-stats"><img height="180em" src="https://bee-stats.vercel.app/stats/385161"/></a>
+  </div>
+</div>
 
