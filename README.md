@@ -23,7 +23,6 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
   </div>
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=visionary330&count_private=false&theme=react"/>
-    <a href="https://github.com/visionary330/bee-stats"><img height="180em" src="https://bee-stats.vercel.app/stats/385161"/></a>
   </div>
 </div>
 
