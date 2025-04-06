@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=visionary330&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionary330&layout=compact&langs_count=7&theme=react"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionary330&layout=compact&langs_count=7&theme=react"/>
     <img height="150em" src="https://streak-stats.demolab.com/?user=visionary330&count_private=false&theme=react"/>
   </div>
 </div>
