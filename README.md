@@ -1,5 +1,5 @@
-##👋 About Me
-Hi there! 
+##👋 About Me <br/>
+Hi there! <br/>
 I'm a passionate Full Stack Developer who loves building end-to-end web applications and solving real-world problems with code. From crafting responsive frontends to building robust backends and deploying scalable systems, I enjoy working across the stack.
 
 💻 Languages & Tools: JavaScript, TypeScript, React, Node.js, Express, Next.js, MongoDB, PostgreSQL, Docker, Git, and more.
@@ -8,11 +8,8 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
 
 🚀 Always learning: Cloud services (AWS, GCP), DevOps practices, and emerging web technologies.
 
-<-- 🛠️ Currently working on: [Your current side project or tech you're exploring] -->
-
 🌱 Looking to collaborate on: Exciting open-source projects or startups that need full-stack expertise.
 
-<-- 📫 How to reach me: [Your email or LinkedIn] -->
 
 ## Skills
 <table>  
@@ -171,5 +168,5 @@ I'm a passionate Full Stack Developer who loves building end-to-end web applicat
 
 ## Statistics
 
-<img width="640" src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={visionary330}&theme={2077}]" alt=""/>
+<img width="640" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={visionary330}&theme={2077}" alt=""/>
 
