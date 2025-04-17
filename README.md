@@ -1,33 +1,57 @@
-# 👋 Hi, there
-### 🚀 Senior Software Engineer | Full Stack Developer | Cloud & AI Integrator
+<h1 align="center">Hi 👋, I'm Ryan Lee</h1>
+<h3 align="center">🚀 Senior Software Engineer | Backend Architect | AI Integrator</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=visionary330&label=Profile%20views&color=0e75b6&style=flat" alt="visionary330" />
+</p>
 
 ---
 
 🔧 **About Me**
 
-I’m a product-driven software engineer with over 10 years of experience delivering scalable, resilient platforms across startups and big tech. I specialize in backend architecture, API design, and full-stack development — with deep experience in **Node.js**, **React**, **GraphQL**, and cloud platforms like **AWS** and **GCP**.
-
-I love building elegant systems, integrating AI/ML capabilities, and collaborating with cross-functional teams to ship products that solve real problems.
+- 🌍 Based in Los Angeles, working globally in remote-first teams
+- 🔭 Currently focused on backend architecture, GraphQL, and AI/LLM integrations
+- 🧠 Building intelligent systems for real-world platforms using GPT/NLP
+- 🛠️ 10+ years experience building scalable, cloud-native products
 
 ---
 
 💼 **Tech Stack**
 
-- **Languages**: TypeScript, JavaScript, Go, Python, Bash, Java
-- **Frontend**: React, Next.js, Material UI, HTML5, CSS3, Laravel
-- **Backend**: Node.js, Go (Gin), FastAPI, GraphQL, Kafka, REST APIs, PHP, Firebase, Firestore, Express JS
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud & DevOps**: AWS (Lambda, ECS), GCP, Docker, Kubernetes, GitHub Actions
-- **AI/ML**: LLM integration, NLP-based automation, intelligent backend features
+| Area           | Technologies                                                                 |
+|----------------|--------------------------------------------------------------------------------|
+| 🖥 Frontend     | React, Next.js, Material UI, Tailwind CSS                                     |
+| ⚙️ Backend     | Node.js, Go, GraphQL, REST, Kafka, gRPC                                       |
+| 🛢️ Databases   | PostgreSQL, MongoDB, Redis                                                     |
+| ☁️ Cloud/DevOps| AWS (Lambda, ECS), GCP, Docker, Kubernetes, GitHub Actions                     |
+| 🧠 AI/ML        | LLMs, OpenAI API, NLP-powered automations                                     |
+
+---
+
+📌 **Highlighted Projects** *(pin these on your GitHub)*
+
+- [`llm-integration-demo`](https://github.com/visionary330/llm-integration-demo) – GPT-backed automation demo  
+- [`edu-dashboard-mvp`](https://github.com/visionary330/edu-dashboard-mvp) – Teacher-student dashboard MVP  
+- [`graphql-perf-booster`](https://github.com/visionary330/graphql-perf-booster) – Caching + performance tooling  
+- [`go-microservices-starter`](https://github.com/visionary330/go-microservices-starter) – Microservice template in Go  
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visionary330&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionary330&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 📫 **Let’s Connect**
 
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 📧 Email: xlogic.foundry@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)  
-- 🌍 Portfolio: [yourdomain.com](https://yourdomain.com) *(optional)*  
+- 🌐 [Portfolio (optional)](https://yourdomain.com)  
 
 ---
 
-🌟 Thanks for visiting my GitHub — feel free to check out my work or reach out!
+🌟 *Thanks for stopping by. Feel free to check out my projects and connect!*
