@@ -1,26 +1,30 @@
-## About Me <br/>
-Hi there! <br/>
+# Hi, there👋  
+**Senior Software Engineer | Full Stack & Cloud Developer | GraphQL • React • Node.js**
 
-I'm a passionate Full Stack Developer who loves building end-to-end web applications and solving real-world problems with code. From crafting responsive frontends to building robust backends and deploying scalable systems, I enjoy working across the stack.
+🚀 I build fast, scalable, and user-focused web & mobile applications.  
+🌍 Working remotely with distributed teams across the globe.  
+💡 Passionate about clean code, great UX, and turning ideas into real products.
 
-💻 Languages & Tools: JavaScript, TypeScript, React, Node.js, Express, Next.js, MongoDB, PostgreSQL, Docker, Git, and more.
+---
 
-🧩 Strong in: REST APIs, system architecture, full-stack integration, clean code, and agile development.
+### 🛠 Tech Stack
+- **Languages**: TypeScript, JavaScript, Go, Python
+- **Frontend**: React, Next.js, Tailwind, React Native
+- **Backend**: Node.js, GraphQL, REST APIs, Microservices
+- **Cloud**: GCP, AWS, Docker, Firebase, CI/CD
+- **Tools**: GitHub Actions, Jira, Notion, Figma
 
-🚀 Always learning: Cloud services (AWS, GCP), DevOps practices, and emerging web technologies.
+---
 
-🌱 Looking to collaborate on: Exciting open-source projects or startups that need full-stack expertise.
+### 📈 What I’m working on
+- 🌱 Building backend systems for MVPs and startups
+- 🔍 Exploring LLM integration into real-world apps
+- 📚 Working on a side project for reading gamification (React + Firebase)
 
+---
 
-</div>
+### 📫 Let’s connect!
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
-## Statistics
-
-<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
-  <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=visionary330&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionary330&layout=compact&langs_count=7&theme=react"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=visionary330&count_private=false&theme=react"/>
-  </div>
-</div>
 
