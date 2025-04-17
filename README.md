@@ -9,9 +9,7 @@
 
 🔧 **About Me**
 
-- 🌍 Based in Los Angeles, working globally in remote-first teams
-- 🔭 Currently focused on backend architecture, GraphQL, and AI/LLM integrations
-- 🧠 Building intelligent systems for real-world platforms using GPT/NLP
+- 🌍 Based in Fort Worth, working globally in remote-first teams
 - 🛠️ 10+ years experience building scalable, cloud-native products
 
 ---
@@ -48,9 +46,8 @@
 
 📫 **Let’s Connect**
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kai-lee-433764360/)  
 - 📧 Email: xlogic.foundry@gmail.com  
-- 🌐 [Portfolio (optional)](https://yourdomain.com)  
 
 ---
 
