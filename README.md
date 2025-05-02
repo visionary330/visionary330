@@ -71,17 +71,7 @@
 </tr>
 </table>
 
----
 
-<!--
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visionary330&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionary330&layout=compact&theme=tokyonight" />
-</p>
--->
----
 
  ## Github Stats📈:
 <p align="center">
