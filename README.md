@@ -161,7 +161,7 @@
 
 📫 **Let’s Connect**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kai-lee-433764360/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zRyan-lee-433764360/)  
 - 📧 Email: xlogic.foundry@gmail.com  
 
 ---
