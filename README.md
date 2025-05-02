@@ -73,12 +73,6 @@
 
 ---
 
-📌 **Highlighted Projects** *(pin these on your GitHub)*
-
-- [`llm-integration-demo`](https://github.com/visionary330/llm-integration-demo) – GPT-backed automation demo  
-- [`edu-dashboard-mvp`](https://github.com/visionary330/edu-dashboard-mvp) – Teacher-student dashboard MVP  
-- [`graphql-perf-booster`](https://github.com/visionary330/graphql-perf-booster) – Caching + performance tooling  
-- [`go-microservices-starter`](https://github.com/visionary330/go-microservices-starter) – Microservice template in Go  
 
 ---
 <!--
