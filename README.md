@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ryan Lee</h1>
 <h3 align="center">🚀 Senior Software Engineer | Backend Architect | AI Integrator</h3>
 
 <p align="center">
