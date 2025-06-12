@@ -5,14 +5,6 @@
 </p>
 
 ---
-
-🔧 **About Me**
-
-- 🌍 Based in Fort Worth, working globally in remote-first teams
-- 🛠️ 10+ years experience building scalable, cloud-native products
-
----
-
 ## My Skill Set 🛠️:
 
 <table align="center"><tr><td valign="top" width="25%">
@@ -99,7 +91,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div> -->
-<!--
+
 ## COMPLETED INTERNATIONAL HACKATHONS🥇:
 
 <p float="left">
@@ -139,8 +131,6 @@
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
   </a> 
 </p>
--->
+
 
 ---
-
-🌟 *Thanks for stopping by. Feel free to check out my projects and connect!*
