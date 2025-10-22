@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Senior Software Engineer | Backend Architect | AI Integrator</h3>
+<h3 align="center">🚀 Senior Software Engineer - AI - Web3</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=visionary330&label=Profile%20views&color=0e75b6&style=flat" alt="visionary330" />
